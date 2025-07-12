@@ -1,0 +1,1 @@
+Here we implemented two different methods: pollard's p-1 algorithm, and pollard rho algorithm.
